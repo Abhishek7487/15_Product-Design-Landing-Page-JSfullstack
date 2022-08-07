@@ -572,6 +572,10 @@ body {
     padding: 4.8rem 2.4rem;
   }
 
+  .section-projects .projects-header .projects-header--right {
+    display: none;
+  }
+
   .section-projects .projects-cards--container {
     display: grid;
     grid-template-columns: 1fr;
